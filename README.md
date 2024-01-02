@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crystal-wzy
+- 👋 Hi, I’m @JohnWang
 - 👀 I’m interested in Machine Learning and Deep Learning.
 - 🌱 I’m currently learning pytorch.
 - 💞️ I’m looking to collaborate on Alibaba.
